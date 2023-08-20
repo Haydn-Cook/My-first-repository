@@ -1,0 +1,26 @@
+body{ font-family: monospace;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+h1 { font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                text-align: center;
+                background: black;
+}
+
+h2{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.centre_heading{ font-family: 'Times New Roman', Times, serif;
+                text-align: center; 
+}
+
+.page_border{ 
+    border: 10px solid black;
+    padding: 20px;
+}
+
+.gradient-heading {
+    background: linear-gradient(to right, #ff0000,#ff0011,#ff0022,#ff0033,#0000dd,#0000dd,#0000ee, #0000ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
